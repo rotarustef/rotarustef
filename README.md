@@ -15,7 +15,7 @@ Here are some of the projects I've been working on:
 - [**GUI_Template**](https://github.com/rotarustef/GUI_Template): A simple GUI template using Dear ImGui and ImPlot.
 - [**MultiSyncTime**](https://github.com/rotarustef/MultiSyncTime): A codec for multiple radio time signals like DCF77, WWVB, MSF, and JJY.
 - [**ElectroPart**](https://github.com/rotarustef/ElectroPart): A project focused on electronic components and their applications.
-- [**python-process**](https://github.com/rotarustef/python-process): A desktop GUI application for managing processes on Windows using Python. Features include viewing process names, PPIDs, and terminating processes directly from the GUI. Future versions aim to include time tracking per app and weekly usage charts.
+- [**Python-process**](https://github.com/rotarustef/Python-processes): A desktop GUI application for managing processes on Windows using Python. Features include viewing process names, PPIDs, and terminating processes directly from the GUI. Future versions aim to include time tracking per app and weekly usage charts.
 
 ## 📈 GitHub Stats
 
